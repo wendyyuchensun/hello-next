@@ -9,6 +9,9 @@ trigger:
 pool:
   vmImage: 'ubuntu-latest'
 
+variables:
+- group: hello-next-pipeline-variables
+
 steps:
 - task: NodeTool@0
   inputs:
