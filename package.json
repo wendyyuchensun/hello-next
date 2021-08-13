@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/wendyyuchensun/hello-next#readme",
   "dependencies": {
-    "next": "^9.1.1",
+    "next": "^11.1.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2"
   }
